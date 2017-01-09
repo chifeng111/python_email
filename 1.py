@@ -9,7 +9,7 @@ receiver = 'liaozhenhua@hust.edu.cn'
 subject = 'python email test'
 smtpserver = 'smtp.qq.com' 
 username = '438090154@qq.com'
-password = 'liao111'
+password = '***'
   
 msg = MIMEText('你好,python email test','text','utf-8')#中文需参数‘utf-8’，单字节字符不需要  
 msg['Subject'] = Header(subject, 'utf-8')  
