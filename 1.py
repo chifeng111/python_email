@@ -8,7 +8,7 @@ sender = '438090154@qq.com'
 receiver = ['liaozhenhua@hust.edu.cn']
 smtpserver = 'smtp.qq.com' 
 username = '438090154@qq.com'
-password = 'liao111'
+password = '***'
   
 # 三个参数：第一个为文本内容，第二个 plain 设置文本格式，第三个 utf-8 设置编码
 message = MIMEText('Python 邮件发送测试...', 'plain', 'utf-8')
